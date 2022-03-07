@@ -1,9 +1,6 @@
 /******************
     
-    Project 3
-    Name: Zackary Ward
-    Date: December 8, 2021
-    Description: JavaScript for Project 3
+    Javascript file Incomplete
 
 *******************/
 
